@@ -25,6 +25,7 @@
 - Data Structures & Algorithms (DSA)
 - Python
 - MySQL
+- C++
 
 ---
 
