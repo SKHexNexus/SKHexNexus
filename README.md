@@ -7,7 +7,7 @@
 
 ### 🚀 CSE Student • Java Learner • LeetCode Enthusiast • Aspiring Software Developer
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=Shubham+Kushwaha;CSE+Student+%F0%9F%8E%93;Learning+Java+%E2%98%95+%26+DSA+%F0%9F%A7%A9;LeetCode+Problem+Solver+%F0%9F%92%A1;Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80)](https://github.com/SKHexNexus)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3500&pause=1000&color=22C55E&center=true&vCenter=true&width=650&lines=CSE+Student+%F0%9F%8E%93;Learning+Java+%E2%98%95+%26+DSA+%F0%9F%A7%A9;LeetCode+Problem+Solver+%F0%9F%92%A1;Code.+Learn.+Build.+Repeat.+%F0%9F%9A%80)](https://github.com/SKHexNexus)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SKHexNexus&label=Profile%20views&color=22c55e&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/SKHexNexus?style=for-the-badge&logo=github&label=Followers&color=0e75b6)
